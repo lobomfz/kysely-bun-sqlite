@@ -1,9 +1,9 @@
 {
-  "name": "kysely-bun-sqlite",
-  "version": "0.4.0",
+  "name": "@lobomfz/kysely-bun-sqlite",
+  "version": "0.4.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dylanblokhuis/kysely-bun-sqlite"
+    "url": "https://github.com/lobomfz/kysely-bun-sqlite"
   },
   "keywords": [
     "kysely",
